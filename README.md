@@ -1,5 +1,5 @@
- **[Main Portfolio](https://github.com/shafmalik/shaf-malik.github.io/tree/main)**
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+ #**[Main Portfolio](https://github.com/shafmalik/shaf-malik.github.io/tree/main)**
+## Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 
